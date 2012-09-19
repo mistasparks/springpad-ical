@@ -1,7 +1,7 @@
 source :rubygems
 
 gem 'sinatra'
-gem 'datamapper'
+gem 'data_mapper'
 
 group :development do
   gem 'sqlite3'
