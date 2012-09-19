@@ -90,3 +90,4 @@ DEPENDENCIES
   sinatra
   sqlite3
   thin
+  uuidtools

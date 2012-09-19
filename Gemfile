@@ -2,6 +2,7 @@ source :rubygems
 
 gem 'sinatra'
 gem 'data_mapper'
+gem 'uuidtools'
 
 group :development do
   gem 'sqlite3'
